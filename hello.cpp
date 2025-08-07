@@ -6,7 +6,7 @@ using namespace std;
 // The main function where program execution begins
 int main() {
     // Prints "Hello World!" to the console
-    cout << "Hello World!" << endl; 
+    cout<<"I am sharif"; 
     
     // Returns 0 to indicate successful program execution
     return 0; 
